@@ -1,0 +1,8 @@
+input NewTodo {
+    text: String!
+    userId: String!
+}
+
+input NewUser {
+    name: String!
+}

@@ -1,0 +1,4 @@
+type Mutation {
+    createUser(input: NewUser!): User!
+    createTodo(input: NewTodo!): Todo!
+}
