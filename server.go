@@ -18,8 +18,6 @@ import (
 	"net/http"
 )
 
-const defaultPort = "8080"
-
 func main() {
 	conn, repo, srv := initialize()
 
