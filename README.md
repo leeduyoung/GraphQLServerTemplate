@@ -34,3 +34,4 @@ pkg 디렉터리 하위의 graph 디렉터리에 정의된 GraphQL 스키마를 
 # gqlgen
 make gen (or make generate)
 ```
+
